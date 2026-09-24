@@ -90,7 +90,3 @@ The original brief floated a "nearby helper" / "emotional Uber" phase-2 idea (ma
 1. **MVP:** safety plan setup form → home screen with red button → mood + intensity check → rule-based suggestion → feedback logging
 2. **v2:** feedback-weighted suggestion ranking
 3. **v3:** donation link, flowers/postcard affiliate integrations, Spotify/YouTube deep links polish
-
-## Claude Code starter prompt
-
-> Build a React Native (Expo) + TypeScript mobile app called SadNest. Start with: (1) a safety plan setup form based on the Stanley-Brown 6-step format, (2) a home screen with a large red button, (3) a mood check with options including an Anxious path that opens a 1–10 intensity scale, (4) a results screen that picks a distraction or coping strategy from the saved plan based on mood + intensity, (5) a simple "did this help?" feedback prompt after each suggestion, logged locally. Warm, soft UI with NativeWind. Mobile-first, offline-first data storage.
